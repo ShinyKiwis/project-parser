@@ -1,0 +1,17 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Nguyen",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "mammoth": "^1.6.0"
+  },
+  "scripts": {
+    "dev": "nodemon main"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
